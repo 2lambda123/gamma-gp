@@ -2,7 +2,7 @@ repo_name: 2lambda123/gamma-gp
 report_id: a05d08fa298ef24a075e4bb1b19b382e
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-09T06:53:04+00:00'
+timestamp: '2024-02-29T19:16:41+00:00'
 requested_by: web-flow
 provider: github
 branch: master
@@ -46,7 +46,7 @@ tools:
   last_updated_by: Siddharth Mishra-Sharma
   last_updated_on: 2020-11-30 23:06:36.000000000 Z
 - name: Swift
-  description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
   website_url: https://developer.apple.com/swift/
   license: Apache-2.0
   open_source: true
